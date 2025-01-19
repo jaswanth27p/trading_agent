@@ -1,0 +1,18 @@
+# Node.js (frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Python (backend)
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# General
+.DS_Store
+*.log
+*.lock
+*.swp
+.idea/
+.vscode/
